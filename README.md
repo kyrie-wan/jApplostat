@@ -1,5 +1,5 @@
 # Installation #
-'applostat' is most easily installed as a cronjob.
+`applostat` is most easily installed as a cronjob.
 	
 ## Preparation ##
 
