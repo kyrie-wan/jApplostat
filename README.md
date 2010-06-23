@@ -1,11 +1,9 @@
-# Applostat #
+# Installation #
+'applostat' is most easily installed as a cronjob.
+	
+## Preparation ##
 
-## Installation ##
-
-### Preparation ###
-
-### Cronjob ###
-
+## Cronjob ##
 
 <div class="footer">
 	&copy; 2010 Martin Oswald
