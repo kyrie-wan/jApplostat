@@ -28,6 +28,7 @@ import com.bmape.applostat.util.UrlConnection;
  * @author martinoswald
  */
 public class Applostat {
+	
 	private static final String DELIVERY_DATE = "delivery_date";
 	private static final String SHIPPING_DATE = "shipping_date";
 	private static final String ORDER_STATUS = "order_status";
