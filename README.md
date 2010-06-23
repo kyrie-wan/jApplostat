@@ -1,4 +1,12 @@
 # Applostat #
 
-## Usage ##
-java -jar applostat.jar <order number> <email address> <item name> <prowl api-key>
+## Installation ##
+
+### Preparation ###
+
+### Cronjob ###
+
+
+<div class="footer">
+	&copy; 2010 Martin Oswald
+</div>
